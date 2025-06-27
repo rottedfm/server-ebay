@@ -1,0 +1,10 @@
+[INFO] ebay::client - Starting Xvfb on DISPLAY=:99
+[INFO] ebay::client - Starting x11vnc on DISPLAY=:99
+[INFO] ebay::client - Starting geckodriver
+[INFO] ebay::client - BrowserClient initialized with geckodriver PID 21983, xvfb PID 21981, x11vnc PID 21982
+[INFO] ebay::client - Navigating to https://signin.ebay.com/signin/...
+[INFO] ebay::client - Shutting down browser processes using PID file
+[INFO] ebay::client - Killed geckodriver with PID 21983
+[INFO] ebay::client - Killed Xvfb with PID 21981
+[INFO] ebay::client - Killed x11vnc with PID 21982
+[INFO] ebay::client - PID file removed and teardown complete

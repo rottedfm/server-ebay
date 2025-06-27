@@ -1,0 +1,18 @@
+[INFO] ebay::client - BrowserClient initialized.
+
+[INFO] ebay::client - Browser processes terminated.
+[INFO] ebay::client - BrowserClient initialized.
+[INFO] ebay::client - Shutting down browser processes using PID file
+[INFO] ebay::client - Killed geckodriver with PID 32683
+[INFO] ebay::client - Killed Xvfb with PID 32682
+[ERROR] ebay::client - x11vnc PID is 0 or invalid, skipping kill
+[INFO] ebay::client - PID file removed and teardown complete
+[INFO] ebay::client - Starting Xvfb on DISPLAY=:99
+[INFO] ebay::client - Starting x11vnc on DISPLAY=:99
+[INFO] ebay::client - Starting geckodriver
+[INFO] ebay::client - BrowserClient initialized with geckodriver PID 36353, xvfb PID 36351, x11vnc PID 36352
+[INFO] ebay::client - Shutting down browser processes using PID file
+[INFO] ebay::client - Killed geckodriver with PID 36353
+[INFO] ebay::client - Killed Xvfb with PID 36351
+[INFO] ebay::client - Killed x11vnc with PID 36352
+[INFO] ebay::client - PID file removed and teardown complete
